@@ -1,0 +1,12 @@
+C:\Users\Nontapat Meein\AppData\Local\Temporary Projects\read_json\bin\Debug\read_json.exe
+C:\Users\Nontapat Meein\AppData\Local\Temporary Projects\read_json\bin\Debug\read_json.pdb
+C:\Users\Nontapat Meein\AppData\Local\Temporary Projects\read_json\bin\Debug\read_json.xml
+C:\Users\Nontapat Meein\AppData\Local\Temporary Projects\read_json\obj\x86\Debug\read_json.Form1.resources
+C:\Users\Nontapat Meein\AppData\Local\Temporary Projects\read_json\obj\x86\Debug\read_json.Resources.resources
+C:\Users\Nontapat Meein\AppData\Local\Temporary Projects\read_json\obj\x86\Debug\read_json.vbproj.GenerateResource.Cache
+C:\Users\Nontapat Meein\AppData\Local\Temporary Projects\read_json\obj\x86\Debug\read_json.exe
+C:\Users\Nontapat Meein\AppData\Local\Temporary Projects\read_json\obj\x86\Debug\read_json.xml
+C:\Users\Nontapat Meein\AppData\Local\Temporary Projects\read_json\obj\x86\Debug\read_json.pdb
+C:\Users\Nontapat Meein\documents\visual studio 2010\Projects\read_json\read_json\obj\x86\Debug\read_json.exe
+C:\Users\Nontapat Meein\documents\visual studio 2010\Projects\read_json\read_json\obj\x86\Debug\read_json.xml
+C:\Users\Nontapat Meein\documents\visual studio 2010\Projects\read_json\read_json\obj\x86\Debug\read_json.pdb
